@@ -1,7 +1,7 @@
 # Green_Flow
-Repositório para o projeto Green Flow, do curso de DataOps.
+Repo for the GreenFlow project, within DataOps course.
 
-# 📊 Startup Data Challenge -- Insights Sustentáveis com Parquet
+# 📊 Startup Data Challenge -- Sustainable Insigths
 
 ## 📖 Overview  
 This project automates **sensors data collection**, processes it, and displays an **interactive dashboard** using **gradio**.  
