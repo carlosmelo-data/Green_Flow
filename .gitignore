@@ -21,14 +21,5 @@ __pycache__/
 # Ignorar arquivos do Office temporários
 ~$*
 
-# Ignorar CSVs e outros arquivos gerados automaticamente, se necessário
-*.csv
-
-# Ignorar a pasta data e seus arquivos
-data/
-
 # Ignorar a pasta docs e seus arquivos
 docs/
-
-# Ignorar o app_v1, que tem a API_Key
-src/eda_green_flow.ipynb
