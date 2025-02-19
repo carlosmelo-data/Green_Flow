@@ -1,7 +1,7 @@
 # Green_Flow
 Repo for the GreenFlow project, within DataOps course.
 
-# 📊 Startup Data Challenge -- Sustainable Insigths
+# 📊 Startup Data Challenge -- Sustainable Insights
 
 ## 📖 Overview  
 This project automates **sensors data collection**, processes it, and displays an **interactive dashboard** using **gradio**.  
