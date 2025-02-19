@@ -4,7 +4,7 @@ import plotly.express as px
 
 # Importar o dataset
 # Ler o arquivo Parquet
-df = pd.read_csv(".\data\dados_sensores.csv")
+df = pd.read_csv("./data/dados_sensores.csv")
 
 def top_bottom_10(tipo):
     colunas = {
